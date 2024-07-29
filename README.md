@@ -23,7 +23,7 @@ Sou um programador com 11 anos de experiência, especializado em desenvolvimento
 - **Docker**: Contêinerização de aplicações para desenvolvimento e produção consistentes.
 - **Git**: Controle de versão e colaboração em projetos.
 
-## Projeto
+## Projetos
 
 ### [Sys Extranet](https://github.com/juliocastro-dev/sys-extranet)
 O Sys Extranet é um sistema projetado para facilitar a troca de informações entre Franqueadores e seus Franqueados.
@@ -35,6 +35,15 @@ O Sys Extranet é um sistema projetado para facilitar a troca de informações e
 **Frontend**
 - **Docker**
 - **React**
+- **Tailwind**
+
+### [Portfólio App](https://github.com/juliocastro-dev/portfolio-app)
+Desenvolvimento de um site no formato de um portfólio moderno para programadores.
+
+Figma do layout desenvolvido no seguinte ![TailwindCSS](https://img.icons8.com/color/24/000000/figma.png) [link](https://www.figma.com/design/OBwx1arGTAaqalXP5t6vE4/Portef%C3%B3lio-Moderno?node-id=0-1&t=Cqow7BfSOAJP04Pk-1)
+
+**Frontend**
+- **Blade**
 - **Tailwind**
 
 ## Contato
