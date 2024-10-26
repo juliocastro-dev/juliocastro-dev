@@ -8,7 +8,7 @@ Sou um programador com 11 anos de experiência, especializado em desenvolvimento
 
 - **PHP**: Minha principal linguagem de programação, com a qual trabalho há 11 anos.
 - **Laravel**: Experiência com este poderoso framework PHP para desenvolvimento de aplicações web.
-- **React**: Uso para criar interfaces de usuário dinâmicas e responsivas.
+- **React e Vue**: Uso para criar interfaces de usuário dinâmicas e responsivas.
 - **HTML**: Estruturação de páginas web.
 - **CSS**: Estilização e layout de páginas web.
 - **Tailwind CSS**: Framework CSS para design rápido e eficiente.
