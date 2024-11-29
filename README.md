@@ -49,13 +49,13 @@ Desenvolvimento de um site no formato de um portfólio moderno para programadore
 ### [Task Api](https://github.com/juliocastro-dev/task-api)
 Uma API de gerenciamento de tarefas com autenticação JWT usando Node.js, Express, e MongoDB. Esta API permite que os usuários se cadastrem, façam login, e gerenciem suas tarefas de forma segura.
 
-## Funcionalidades
+#### Funcionalidades
 - **Cadastro de usuários**: Permite que novos usuários se cadastrem no sistema.
 - **Login de usuários**: Usuários podem fazer login com suas credenciais (e-mail e senha).
 - **Gerenciamento de tarefas**: Após o login, os usuários podem criar, listar e excluir tarefas.
 - **Autenticação JWT**: A autenticação é feita utilizando JSON Web Tokens (JWT) para proteger as rotas que requerem login.
 
-## Tecnologias
+#### Tecnologias
 - **Node.js**: Ambiente de execução para a API.
 - **Express**: Framework para construção da API.
 - **MongoDB**: Banco de dados NoSQL para armazenar usuários e tarefas.
